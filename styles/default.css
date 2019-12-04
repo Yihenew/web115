@@ -176,7 +176,7 @@ input[type=button]
 
 #body4
 {
-	color: #008B8B;
+	color: #008B8B !important;
 	background-color: #DDC19D;
 	margin-right: 200px;
   	margin-left: 200px;
