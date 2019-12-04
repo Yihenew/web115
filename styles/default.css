@@ -247,7 +247,13 @@ p
 	margin: 35px;
 }
 
-.h3color a h4
+.h3color a
+{
+	color: #008B8B !important;
+	text-align: center;
+}
+
+.h3color h4
 {
 	color: #008B8B !important;
 	text-align: center;
