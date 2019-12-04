@@ -129,7 +129,7 @@ input[type=button]
 
 }
 
-#body1, #body4
+#body1
 {	
 	background-color: #DDC19D;
 	color: #8B4513;
@@ -202,6 +202,10 @@ input[type=button]
 	font-family: "Lucida Console", Monaco, monospace;
 }
 
+#body4.h3color
+{
+	color: #008B8B !important;
+}
 #header
 {
 	background-color: #DDC19D;
