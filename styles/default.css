@@ -160,7 +160,13 @@ input[type=button]
 	border-radius: 25px;
  	padding: 20px 20px;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	color: #008B8B!important;
+	color: #008B8B;
+}
+
+#body3 h4
+{
+	color: #8B4513!important;
+
 }
 
 .footerEM
@@ -241,15 +247,10 @@ p
 	margin: 35px;
 }
 
-#h3color a
+.h3color a
 {
-	color: #008B8B;
+	color: #008B8B !important;
 	text-align: center;
-}
-
-#h3color h5
-{
-	color: #008B8B!important;
 }
 
 #rec1 
